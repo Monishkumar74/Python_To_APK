@@ -3,7 +3,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
+## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/monishkumar7_/)
 ## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
 ## [Watch Tutorial for this project](https://youtu.be/mUdnjNGePZw)
 
@@ -30,5 +30,4 @@
 ## Just follow☝️ me and Star⭐ my repository 
 
 # [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
-## Donate me on GPAY:- kushalbhavsar58@okicici
+## Donate me on GPAY:- monishkumar0420@okaxis
